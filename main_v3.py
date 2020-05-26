@@ -1,3 +1,5 @@
+#Noah Callaway 2020
+#BCU DIG5130
 import cv2
 import numpy as np
 
